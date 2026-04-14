@@ -11,9 +11,9 @@ A backend REST API for tracking workouts and exercises with user authentication.
 ---
 
 ## Enviroment variables
-  DATABASE_URL=your_db_url
-  JWT_SECRET=secretkey
-  PORT=5000
+  - DATABASE_URL=your_db_url
+  - JWT_SECRET=secretkey
+  - PORT=5000
 
 ---
 
