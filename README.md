@@ -21,9 +21,11 @@ A backend REST API for tracking workouts and exercises with user authentication.
  Auth
   - POST /auth/register
   - POST /auth/login
+ 
  Workouts
   - POST /workouts (protected)
   - GET /workouts (protected)
+ 
  Exercises
   - POST /exercises (protected)
   - GET /exercises/:workoutId (protected)
